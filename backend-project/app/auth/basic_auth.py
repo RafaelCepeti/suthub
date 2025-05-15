@@ -4,7 +4,6 @@ import secrets
 
 security = HTTPBasic()
 
-# Usuário e senha fixos (em um projeto real, use variáveis de ambiente)
 USERNAME = "admin"
 PASSWORD = "admin123"
 
